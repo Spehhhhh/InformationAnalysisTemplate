@@ -1,6 +1,6 @@
 ---
 name: Question Template
-about: 提问模版
+about: 提出问题
 title: ''
 labels: 提问
 assignees: ''

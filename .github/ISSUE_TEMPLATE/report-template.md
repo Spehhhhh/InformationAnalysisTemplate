@@ -1,6 +1,6 @@
 ---
 name: Report Template
-about: 报告模版
+about: 撰写报告
 title: ''
 labels: 报告
 assignees: ''

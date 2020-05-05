@@ -1,6 +1,6 @@
 ---
 name: Discussion Template
-about: 讨论模版
+about: 开展讨论
 title: ''
 labels: 讨论
 assignees: ''
